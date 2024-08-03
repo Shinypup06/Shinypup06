@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Shinypup06
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning java and C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @Shinypup06! I am a high school senior interested in computer science.
+🌱 I’m currently learning to make projects using machine learning!
+👌 I'm familiar with java, python, and web development.
 
 <!---
 Shinypup06/Shinypup06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
